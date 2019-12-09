@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PhuongTrinhBacNhat/PhuongTrinhBacNhat.iml" filepath="$PROJECT_DIR$/../PhuongTrinhBacNhat/PhuongTrinhBacNhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../QuanLyGiaCam/QuanLyGiaCam.iml" filepath="$PROJECT_DIR$/../QuanLyGiaCam/QuanLyGiaCam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TTHCNHV/TTHCNHV.iml" filepath="$PROJECT_DIR$/../TTHCNHV/TTHCNHV.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThanhHelloWorld.iml" filepath="$PROJECT_DIR$/ThanhHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tong2SoAB/Tong2SoAB.iml" filepath="$PROJECT_DIR$/../Tong2SoAB/Tong2SoAB.iml" />
     </modules>
   </component>
 </project>

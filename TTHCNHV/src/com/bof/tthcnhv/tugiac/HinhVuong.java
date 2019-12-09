@@ -12,7 +12,6 @@ public class HinhVuong extends TuGiac {
 	@Override
 	public void tinhChuVi() {
 		chuVi = doDaiCanh * 4;
-
 	}
 
 	@Override

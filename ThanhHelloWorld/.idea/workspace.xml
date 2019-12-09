@@ -28,6 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PhuongTrinhBacNhat" />
   </component>
   <component name="RunManager">
     <configuration name="ThanhHelloWorldMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -65,14 +66,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575910542828</updated>
-      <workItem from="1575910554634" duration="90000" />
+      <workItem from="1575910554634" duration="2059000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="60" key="FileChooserDialogImpl" timestamp="1575911424815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="60" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575911424815" />
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1575910979748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575910979748" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1575910979748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575910979748" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1575910979748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575910979748" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1575910979748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575910979748" />
+    <state x="350" y="68" key="NewModule_or_Project.wizard" timestamp="1575911430880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="68" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1575911430880" />
     <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1575910556627">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575910556627" />
+    <state x="390" y="6" width="585" height="717" key="find.popup" timestamp="1575912004256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="6" width="585" height="717" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1575912004256" />
+    <state x="65" y="0" key="new project wizard" timestamp="1575911107027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1575911107027" />
   </component>
 </project>
