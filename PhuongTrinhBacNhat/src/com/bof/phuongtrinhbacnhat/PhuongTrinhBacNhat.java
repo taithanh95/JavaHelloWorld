@@ -9,6 +9,8 @@ public class PhuongTrinhBacNhat {
     }
     public void giaiPT(){
         double x= b/a;
+		
+		return x;
     }
     public void inTT(){
         System.out.println("X= " + x);
