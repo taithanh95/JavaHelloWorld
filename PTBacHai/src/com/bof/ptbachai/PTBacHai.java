@@ -25,7 +25,7 @@ public class PTBacHai {
             inKQ();
         }
     }
-    public inKQ(){
-        System.out.println("Nghiem so 1: "+ x1 + "\n" "Nghiem so 2:" +x2);
+    public void inKQ(){
+        System.out.println("Nghiem so 1: "+ x1 + "\n" +"Nghiem so 2:" +x2);
     }
 }
